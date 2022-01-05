@@ -1,0 +1,22 @@
+
+
+/*# sourceMappingURL=style.css.map */
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    transition: background 1.5s linear;
+}
+#color{
+    width: 350px;
+    text-align: center;
+    background: #333;
+    color: #eee;
+    font-size: 2.5rem;
+    padding: 2rem;
+    border-radius: 5px;
+}
